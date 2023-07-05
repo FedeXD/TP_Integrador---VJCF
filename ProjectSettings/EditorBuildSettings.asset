@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Timidez.unity
+    guid: e12097ebf0ce0c845b4bb72e0e6a1cf4
+  - enabled: 1
+    path: Assets/Scenes/Fuera_de_clase.unity
+    guid: 8365bc9ff67be3946a34b51c4939519c
+  - enabled: 1
+    path: Assets/Scenes/Vendedor_Ambulante.unity
+    guid: d9a1c61859946074280d1db8b8f9422f
+  m_configObjects: {}
